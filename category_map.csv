@@ -85,9 +85,9 @@ Ski/Poles/Accessory',5a7ec962-9aa7-4ef2-a63d-7146d7a115c2,"Skiing > Training, Ac
 Ski/Poles/Adult',456d28fa-a3bd-4d98-aa7b-6cd43ff03fe9,Skiing > Poles,"Ski/Poles/Adult',"
 Ski/Poles/Baskets',5a7ec962-9aa7-4ef2-a63d-7146d7a115c2,"Skiing > Training, Accessories, Backcountry & Other > Other","Ski/Accessory',"
 Ski/Poles/Youth',456d28fa-a3bd-4d98-aa7b-6cd43ff03fe9,Skiing > Poles,"Ski/Poles/Youth',"
-Ski/Skis/Men,19d750c7-bc15-431c-bb83-e647ceab40ce,Skiing > Skis > Downhill Skis,
-Ski/Skis/Women,19d750c7-bc15-431c-bb83-e647ceab40ce,Skiing > Skis > Downhill Skis,
-Ski/Skis/Youth,19d750c7-bc15-431c-bb83-e647ceab40ce,Skiing > Skis > Downhill Skis,
+Ski/Skis/Men,19d750c7-bc15-431c-bb83-e647ceab40ce,Skiing > Skis > Downhill Skis,Ski/Skis/Men
+Ski/Skis/Women,19d750c7-bc15-431c-bb83-e647ceab40ce,Skiing > Skis > Downhill Skis,Ski/Skis/Women
+Ski/Skis/Youth,19d750c7-bc15-431c-bb83-e647ceab40ce,Skiing > Skis > Downhill Skis,Ski/Skis/Youth
 Ski/Socks/Adult',b3d547e7-2f1f-424b-bb3b-00268a0b2298,Skiing > Apparel & Outerwear > Ski Socks,"Ski/Socks/Adult',"
 Ski/Socks/Youth',b3d547e7-2f1f-424b-bb3b-00268a0b2298,Skiing > Apparel & Outerwear > Ski Socks,"Ski/Socks/Youth',"
 Ski/Tune/Wax',8f6bf410-7893-4b97-8c15-98197111ce73,"Skiing > Training, Accessories, Backcountry & Other > Tuning & Wax","Ski/Accessory',"
