@@ -148,7 +148,7 @@ for n,g in gb:
           "height": 1,
           "weight": 1,
           "details": [
-              categoryInfo(g0['DCSname'])[1]
+              [{'type':k,'option':h[v]} for k,v in ds[h['dcsname']].items()]
           ]
         } for h in g
       ]
